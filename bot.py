@@ -50,7 +50,7 @@ class InstagramBot:
             time.sleep(random.randint(1,3))
 
     def comente_nas_fotos_com_a_hashtag(self):
-         a = 0
+        a = 0
         while (1):
             ''' Aqui você coloca uma variável e atribui no valor o link do post da promoção. Por exemplo:
             # sorteio_cozinha = "https://www.instagram.com/ ......"
